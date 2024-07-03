@@ -1,0 +1,39 @@
+Jenis Kelamin,Umur (bulan),Berat Badan (kg),Tinggi Badan (cm),Status Gizi
+laki-laki,23,8.7,79.5,stunted
+perempuan,23,10.2,83,normal
+laki-laki,23,10.8,83,stunted
+laki-laki,15,9.5,83,stunted
+laki-laki,23,10.5,85,stunted
+laki-laki,14,9.5,80,tinggi
+laki-laki,12,10.1,81,tinggi
+perempuan,18,9.5,81,tinggi
+laki-laki,13,8.5,74,normal
+perempuan,11,12.1,74,normal
+laki-laki,11,9,78.5,severely stunted
+laki-laki,10,10.2,73,normal
+perempuan,9,7.6,69,normal
+laki-laki,7,6.8,68,normal
+laki-laki,8,8.9,68,normal
+perempuan,4,7.1,67,tinggi
+perempuan,4,5.9,65,normal
+laki-laki,8,8.2,70,tinggi
+perempuan,1,3.3,40,normal
+perempuan,13,10.5,79,tinggi
+perempuan,4,4.8,61,normal
+perempuan,10,8.5,74,normal
+perempuan,8,8.3,70,normal
+perempuan,8,7.7,65,normal
+perempuan,20,8.6,79,stunted
+laki-laki,22,17.6,88,normal
+laki-laki,3,6.8,63,tinggi
+perempuan,17,10.6,84,normal
+perempuan,5,67,62.5,normal
+perempuan,15,9.7,72,normal
+laki-laki,24,11.7,83,tinggi
+perempuan,6,7.2,65.8,normal
+laki-laki,12,10.1,77.5,stunted
+perempuan,12,10.2,73,stunted
+laki-laki,20,11.2,96,tinggi
+perempuan,9,6.8,70,normal
+perempuan,2,5.1,53,stunted
+perempuan,3,5.6,56.5,severely stunted
